@@ -15,4 +15,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## Clone
 
-    git@github.com:EvandroRodCoelho/Desafio-frontMentor.git
+  git clone https://github.com/EvandroRodCoelho/Desafio-frontMentor.git
